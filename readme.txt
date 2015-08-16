@@ -1,0 +1,1 @@
+This extension allows you to find and replace text within a selection. It is accessible via the Find menu or the keyboard shortcut Ctrl-R.
